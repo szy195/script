@@ -1,0 +1,3 @@
+/Users/bytedance/Desktop/dev/game/KBot/new-project/build/CMakeFiles/KBot.dir
+/Users/bytedance/Desktop/dev/game/KBot/new-project/build/CMakeFiles/edit_cache.dir
+/Users/bytedance/Desktop/dev/game/KBot/new-project/build/CMakeFiles/rebuild_cache.dir

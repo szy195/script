@@ -1,0 +1,16 @@
+[2025-11-11 19:39:27.764] [INFO] Log system initialized with minimum level: DEBUG
+[2025-11-11 19:39:27.764] [DEBUG] This is a debug message
+[2025-11-11 19:39:27.764] [INFO] This is an info message
+[2025-11-11 19:39:27.764] [WARNING] This is a warning message
+[2025-11-11 19:39:27.764] [ERROR] This is an error message
+[2025-11-11 19:39:27.765] [CRITICAL] This is a critical message
+[2025-11-11 19:39:27.765] [INFO] Formatted message: 1872782608 + 1872782584 = 1872782544
+[2025-11-11 19:39:27.765] [ERROR] Error code: 1872782608, Message: Not Found
+[2025-11-11 19:39:27.765] [INFO] Event logging enabled
+[2025-11-11 19:39:27.765] [DEBUG] Event: GameUpdate
+[2025-11-11 19:39:27.765] [DEBUG] Event: ObjectCreate
+[2025-11-11 19:39:27.765] [DEBUG] Event: SpellCast
+[2025-11-11 19:39:27.765] [WARNING] This warning message should appear
+[2025-11-11 19:39:27.765] [ERROR] This error message should appear
+[2025-11-11 19:39:27.765] [INFO] This message should appear again
+[2025-11-11 19:39:27.765] [INFO] Log system shutting down
